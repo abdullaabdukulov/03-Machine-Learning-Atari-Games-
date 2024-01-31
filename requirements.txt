@@ -1,0 +1,6 @@
+opencv-python
+stable-baselines3
+stable-baselines3[extra]
+swig
+gymnasium
+gymnasium[box2d]
