@@ -5,10 +5,10 @@
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
-.Pacman/ppo_pacman.zip
-.Space invaders/ppo_space_invaders.zip
-.CartPole/ppo_cartpole.zip
 
+./models/ppo_cartpole.zip
+./models/ppo_pacman.zip
+./models/ppo_space_invaders.zip
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
