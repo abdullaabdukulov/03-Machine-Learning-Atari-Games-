@@ -1,5 +1,6 @@
 from stable_baselines3 import PPO
 from stable_baselines3.common.env_util import make_vec_env
+import gym
 
 vec_env = make_vec_env("CartPole-v1")
 model = PPO("MlpPolicy", vec_env, verbose=1)
