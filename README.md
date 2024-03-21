@@ -44,5 +44,3 @@ There two files inside:
 -  Then you can test it by running `test.py` file.
     - ```python test.py```
 
-pip install gym==0.26.2 
-pip install stable-baselines3==2.2.1
