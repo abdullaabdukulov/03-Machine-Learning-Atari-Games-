@@ -1,3 +1,4 @@
+python=3.11
 ale-py==0.8.1
 AutoROM==0.4.2
 AutoROM.accept-rom-license==0.6.1
